@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Vasu a third-year college student and full-stack web developer who loves building responsive, user-friendly applications. Right now, I’m learning machine learning to broaden my skills and explore new possibilities in tech. I’m passionate about problem-solving and excited to work on projects that make an impact.
 
- **Email:** vasukapahi@gmail.com
+ **How to reach me:** vasukapahi@gmail.com
 
 
 ## 🌐 Socials:
