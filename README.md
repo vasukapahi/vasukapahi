@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Vasu a third-year college student and full-stack web developer who loves building responsive, user-friendly applications. Right now, I’m learning machine learning to broaden my skills and explore new possibilities in tech. I’m passionate about problem-solving and excited to work on projects that make an impact.
 
+ **Email:** vasukapahi@gmail.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasu_kapahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasu-kapahi-b9311a258/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/vasu_kapahi/) 
