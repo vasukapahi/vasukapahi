@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Vasu a third-year college student and full-stack web developer who loves building responsive, user-friendly applications. Right now, I’m learning machine learning to broaden my skills and explore new possibilities in tech. I’m passionate about problem-solving and excited to work on projects that make an impact.
+Hi 👋, I'm Vasu a final-year student and a full-stack web developer with a strong interest in AI.
+I build responsive, user-friendly applications and have hands-on experience in machine learning, natural language processing, speech recognition, and GenAI, working on projects involving LLMs, embeddings, and RAG. I love solving real problems and exploring new technologies that create impact.
 
  **How to reach me:** vasukapahi@gmail.com
 
